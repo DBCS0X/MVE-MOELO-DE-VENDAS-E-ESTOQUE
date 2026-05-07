@@ -3,8 +3,8 @@
   ## Descrição 
  Um modelo visando criar uma interface para vendas e estoque, para ajudar mercados com o sistema de vendas ao cliente e gestão de estoque.
 
-##licença
-  ### Uso Comercial 
+  ###licença
+  Uso Comercial 
 
   ## Contribuidores
 
