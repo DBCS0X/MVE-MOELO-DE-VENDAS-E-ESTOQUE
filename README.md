@@ -56,6 +56,7 @@ Python
 
 ## Integrantes
 Erick Soares Toledo
+https://github.com/ErickToledo28
 
 Dennis Brayan Conceição da Silva
 
