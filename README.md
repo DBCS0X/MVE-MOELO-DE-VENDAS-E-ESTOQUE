@@ -1,4 +1,4 @@
-Readme 
+##Readme 
 
 O sistema de estoque e vendas foi desenvolvido para auxiliar no controle de produtos e vendas e gerenciamento de um estoque de loja. O sistema permite que o vendedor acompanhe o estado do deu estoque e também permite que o vendedor cadastre produtos, registre venda e acompanhe a disponibilidade de itens para venda. 
 
